@@ -1,0 +1,62 @@
+D:\Lưu Bài Tập\Lập Trình Web\test6\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.exe.config
+D:\ZALO\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.exe.config
+D:\ZALO\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.exe
+D:\ZALO\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.pdb
+D:\ZALO\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.csprojResolveAssemblyReference.cache
+D:\ZALO\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.DangNhap.resources
+D:\ZALO\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.DanhMucSP.resources
+D:\ZALO\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.NhaCungCap.resources
+D:\ZALO\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.Phieu.resources
+D:\ZALO\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.Properties.Resources.resources
+D:\ZALO\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.SanPham.resources
+D:\ZALO\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.TrangChu.resources
+D:\ZALO\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.csproj.GenerateResource.Cache
+D:\ZALO\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.exe
+D:\ZALO\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.pdb
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.exe.config
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.exe
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.pdb
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.exe
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.pdb
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.csprojResolveAssemblyReference.cache
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.DangNhap.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.DanhMucSP.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.NhaCungCap.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.Phieu.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.Properties.Resources.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.SanPham.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.TrangChu.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.csproj.GenerateResource.Cache
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.exe.config
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.exe
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.pdb
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.exe
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.pdb
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.csprojResolveAssemblyReference.cache
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.DangNhap.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.DanhMucSP.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.NhaCungCap.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.Phieu.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.Properties.Resources.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.SanPham.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QuanLyKhoSua.ThongTinSP.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QuanLyKhoSua.TimKiem.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.TrangChu.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.csproj.GenerateResource.Cache
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.exe.config
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.exe
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.pdb
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.csprojResolveAssemblyReference.cache
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.DangNhap.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.DanhMucSP.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.frmChiTiet.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.frmPhieu.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.NhaCungCap.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.Properties.Resources.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.SanPham.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.TrangChu.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.csproj.GenerateResource.Cache
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.exe
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\bin\Debug\QL_kho.pdb
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.ThongTinSP.resources
+D:\Nam3\HK1\CN .NET\DoAn_K\QuanLyKhoSua_K - Copy - Copy\QuanLyKhoSua\QL_kho\obj\Debug\QL_kho.TimKiem.resources
