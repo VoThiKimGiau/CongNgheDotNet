@@ -17,7 +17,7 @@
 -----------------------------------------------
 # Dự án
 
-## Website bán sách
+## Application quản lý kho sữa
 <h5>Mô tả dự án: </h5>
 <p>Ngày nay có rất nhiều cửa hàng ra đời tuy nhiên quy trình quản lý kho thủ công lại kém hiệu quả điều này dẫn đến nhiều rủi ro và sai sót. Các cửa hàng phải đối mặt với các vấn đề như: quản lý thông tin hàng hóa thiếu chính xác dẫn đến sự hao tổn về hàng hóa, lợi nhuận, thời gian kiểm kê lâu, tốn kém chi phí. Điều này không chỉ ảnh hưởng đến hoạt động kinh doanh mà còn ảnh hưởng tới lòng tin của khách hàng đối với cửa hàng. Vì vậy để giải quyết những vấn đề trên cần có 1 phần mềm quản lý kho, đó là lý do nhóm em lựa chọn đề tài này.</p>
 
